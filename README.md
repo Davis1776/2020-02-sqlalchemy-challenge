@@ -1,4 +1,4 @@
-![SQLAlchemyImage](Images/SQLAlchemyImage.jfif)
+      ![SQLAlchemyImage](Images/SQLAlchemyImage.jfif)
 
 # SQLAlchemy - Surfs Up!
 
@@ -16,7 +16,7 @@
 
 6. GitHub
 
-![ToolBox](Images/SuccessTools.jfif)
+        ![ToolBox](Images/SuccessTools.jfif)
 
 ### Before You Begin
 
@@ -78,7 +78,7 @@ To begin, use Python and SQLAlchemy to do basic climate analysis and data explor
 
   * Plot the results as a histogram with `bins=12`.
 
-    ![station-histogram](Temperature_Observations_for_Top_Site.png)
+          ![station-histogram](Temperature_Observations_for_Top_Site.png)
 
 - - -
 
@@ -152,7 +152,7 @@ Now that you have completed your initial analysis, design a Flask API based on t
 
   * Use the peak-to-peak (tmax-tmin) value as the y error bar (yerr).
 
-    ![temperature](Trip_Avg_Temp.png)
+        ![temperature](Trip_Avg_Temp.png)
 
 ### Daily Rainfall Average
 
@@ -168,4 +168,4 @@ Now that you have completed your initial analysis, design a Flask API based on t
 
 * Use Pandas to plot an area plot (`stacked=False`) for the daily normals.
 
-  ![daily-normals](Daily_Normals_May_20-30_2017_v2.png)
+      ![daily-normals](Daily_Normals_May_20-30_2017_v2.png)
