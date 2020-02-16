@@ -1,4 +1,4 @@
-![SQLAlchemyImage](Images/SQLAlchemy.jfif)
+![SQLAlchemyImage](Images/SQLAlchemyImage.jfif)
 
 # SQLAlchemy - Surfs Up!
 
