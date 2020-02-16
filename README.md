@@ -23,7 +23,9 @@
 
 6. GitHub
 
-  ![ToolBox](Images/SuccessTools.jfif)
+<p align="center">
+  <img width="200" height="200" img src="Images/SuccessTools.jfif">
+</p>
 
 ### Before You Begin
 
@@ -85,7 +87,9 @@ To begin, use Python and SQLAlchemy to do basic climate analysis and data explor
 
   * Plot the results as a histogram with `bins=12`.
 
-  ![station-histogram](Temperature_Observations_for_Top_Site.png)
+<p align="center">
+  <img width="432" height="288" img src="Temperature_Observations_for_Top_Site.png">
+</p>  
 
 - - -
 
@@ -159,7 +163,9 @@ Now that you have completed your initial analysis, design a Flask API based on t
 
   * Use the peak-to-peak (tmax-tmin) value as the y error bar (yerr).
 
-  ![temperature](Trip_Avg_Temp.png)
+<p align="center">
+  <img width="216" height="360" img src="Trip_Avg_Temp.png">
+</p>
 
 ### Daily Rainfall Average
 
@@ -175,4 +181,6 @@ Now that you have completed your initial analysis, design a Flask API based on t
 
 * Use Pandas to plot an area plot (`stacked=False`) for the daily normals.
 
-![daily-normals](Daily_Normals_May_20-30_2017_v2.png)
+<p align="center">
+  <img width="400" height="400" img src="Daily_Normals_May_20-30_2017_v2.png">
+</p>
