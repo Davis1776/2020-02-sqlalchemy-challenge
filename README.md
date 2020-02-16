@@ -1,5 +1,21 @@
 # SQLAlchemy - Surfs Up!
 
+### Tools Used
+
+1. SQLAlchemy
+
+2. Python
+
+3. Flask
+
+4. Jupyter Notebook
+
+5. ORM queries, Pandas, and Matplotlib
+
+6. GitHub
+
+![ToolBox](Images/SuccessTools.jfif)
+
 ### Before You Begin
 
 1. Create a new repository for this project called `sqlalchemy-challenge`.
@@ -16,7 +32,7 @@ Congratulations! You've decided to treat yourself to a long holiday vacation in 
 
 ## Step 1 - Climate Analysis and Exploration
 
-To begin, use Python and SQLAlchemy to do basic climate analysis and data exploration of your climate database. All of the following analysis should be completed using SQLAlchemy ORM queries, Pandas, and Matplotlib.
+To begin, use Python and SQLAlchemy to do basic climate analysis and data exploration of your climate database. All of the following analysis should be completed using SQLAlchemy, ORM queries, Pandas, and Matplotlib.
 
 * Use the resource files and [hawaii.sqlite](Resources/hawaii.sqlite) files to complete your climate analysis and data exploration.
 
@@ -38,7 +54,7 @@ To begin, use Python and SQLAlchemy to do basic climate analysis and data explor
 
 * Plot the results using the DataFrame `plot` method.
 
-  ![precipitation](Hawaii_Precep_Aug_2016_to_2017.png)
+![precipitation](Hawaii_Precep_Aug_2016_to_2017.png)
 
 * Use Pandas to print the summary statistics for the precipitation data.
 
