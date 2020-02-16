@@ -1,3 +1,5 @@
+![SQLAlchemyImage](Images/SQLAlchemy.jfif)
+
 # SQLAlchemy - Surfs Up!
 
 ### Tools Used
