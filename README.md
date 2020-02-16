@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="460" height="300" src="https://www.yamamanx.com/wp-content/uploads/2016/10/sqlalchemy.jpeg">
+  <img width="247" height="65" src="https://www.yamamanx.com/wp-content/uploads/2016/10/sqlalchemy.jpeg">
 </p>
 
   ![SQLAlchemyImage](Images/SQLAlchemyImage.jfif)
