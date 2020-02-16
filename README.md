@@ -1,11 +1,6 @@
 <p align="center">
-  <img width="247" height="65" src="https://www.yamamanx.com/wp-content/uploads/2016/10/sqlalchemy.jpeg">
-</p>
-<p align="center">
   <img width="247" height="65" img src="Images/SQLAlchemyImage.jfif">
 </p>
-
-  ![SQLAlchemyImage](Images/SQLAlchemyImage.jfif)
   
 # SQLAlchemy - Surfs Up!
 
